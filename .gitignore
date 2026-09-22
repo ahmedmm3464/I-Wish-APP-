@@ -1,0 +1,19 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Build
+out/
+build/
+
+# Third-party drivers / SDKs
+src/driver/
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
